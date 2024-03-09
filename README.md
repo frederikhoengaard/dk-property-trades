@@ -2,6 +2,10 @@
 
 A curated data set of 1.2 million Danish residential real estate trades in the period 1992-2023 compiled from recordings of deeds (tinglysningsdata) and the [BBR registry](https://bbr.dk). Read more about the curation in the following. 
 
+The data set is intended for exploratory modelling of residential real estate price estimation. I think this represents an interesting departure fora data science project, particularly for those with an interest in geospatial data science. 
+
+I encourage potential users to augment and experiment with the data set - have fun! 
+
 ## How to use
 
 The data set is partitioned in this repository due to GitHub file size restrictions. You can use the loader function in the data folder to merge the partitions and return a dataframe e.g. by
