@@ -67,3 +67,5 @@ Furthermore, sadly, the practise of recording property trades in Denmark is such
 ## Caveats
 
 BBR data is known to be of questionable quality - particularly regarding the recorded heating systems.
+
+An interesting yet elusive piece of information is the lot size associated with each property. It is not recorded in the consulted data sources and thus does not appear in the resulting compiled data set.
