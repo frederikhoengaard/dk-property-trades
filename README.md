@@ -4,7 +4,6 @@ A curated data set of 1.2 million Danish residential real estate trades in the p
 
 ## How to use
 
----
 The data set is partitioned in this repository due to GitHub file size restrictions. You can use the loader function in the data folder to merge the partitions and return a dataframe e.g. by
 
 ```
