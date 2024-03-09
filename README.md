@@ -1,5 +1,3 @@
-<img width="300" src="png/dk_icon.png">
-
 # DK Property Trades 1992-2023
 
 A curated data set of 1.2 million Danish residential real estate trades in the period 1992-2023 compiled from recordings of deeds (tinglysningsdata) and the [BBR registry](https://bbr.dk). Read more about the curation in the following. 
