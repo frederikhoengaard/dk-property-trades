@@ -33,6 +33,5 @@ def load_dataset(as_frame=False) -> Optional[DataFrame]:
 
 
 if __name__ == '__main__':
-    #splitter("sanitized.parquet")
     df = load_dataset(as_frame=True)
     print(len(df))
