@@ -1,6 +1,6 @@
 # DK Property Trades 1992-2023
 
-A curated data set of 1.2 million Danish residential real estate trades in the period 1992-2023 compiled from recordings of deeds (tinglysningsdata) and the [BBR registry](https://bbr.dk). Read more about the curation in the following. 
+A curated data set of 1,132,374 Danish residential real estate trades in the period 1992-2023 compiled from recordings of deeds (tinglysningsdata) and the [BBR registry](https://bbr.dk). Read more about the curation in the following. 
 
 The data set is intended for exploratory modelling of residential real estate price estimation. I think this represents an interesting departure fora data science project, particularly for those with an interest in geospatial data science. 
 
@@ -55,7 +55,6 @@ Furthermore, sadly, the practise of recording property trades in Denmark is such
 'roof_type',:                   "Type of roof material (BBR)"
 'water_supply':                 "Type of water supply, if any (BBR)"
 'outer_wall_type':              "Type of outer wall material (BBR)",
-"building_area":                "Building area at ground floor in square meters (BBR",
 'weighted_area':                "Weighted area in square meters (BBR)", 
 'latitude':                     "Latitude coordinate (BBR)",
 'longitude':                    "Longitude coordinate (BBR)",
